@@ -6,10 +6,7 @@ int main()
     // hi 3
     // add line
     cout << "Hi" << endl;
-
-    // hi
-
-    // hi 2
+    // try
     return 0;
 
     // hi 5
